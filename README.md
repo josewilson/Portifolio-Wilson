@@ -15,6 +15,7 @@
 </p>
 
 <p align="center">
+  <a href="https://josewilson.github.io/Portifolio-Wilson/"><strong>Portfólio Online</strong></a> |
   <a href="https://github.com/josewilson"><strong>GitHub</strong></a> |
   <a href="https://www.linkedin.com/in/jose-wilson-alves-de-souza/"><strong>LinkedIn</strong></a> |
   <a href="https://wa.me/5583996203065"><strong>WhatsApp</strong></a> |
@@ -26,6 +27,9 @@
 Profissional de TI com mais de 9 anos de experiência em infraestrutura, suporte a sistemas, análise de ambientes corporativos e bancos de dados, em transição estratégica para desenvolvimento backend. Atualmente direciona a carreira para construção de APIs REST, integração de sistemas e desenvolvimento de soluções robustas com Java, Spring Boot e Node.js.
 
 Este portfólio foi pensado para funcionar como vitrine profissional, reunindo apresentação pessoal, stacks prioritárias, projeto em destaque, canais de contato e estrutura pronta para evolução contínua.
+
+**Acesse o portfólio online:**  
+<https://josewilson.github.io/Portifolio-Wilson/>
 
 ## Por que este portfólio se destaca
 
