@@ -119,6 +119,7 @@ Este projeto está preparado para hospedagem estática gratuita em plataformas c
 
 ## Contato
 
+- GitHub Pages: <https://josewilson.github.io/Portifolio-Wilson/>
 - GitHub: <https://github.com/josewilson>
 - LinkedIn: <https://www.linkedin.com/in/jose-wilson-alves-de-souza/>
 - WhatsApp: <https://wa.me/5583996203065>
