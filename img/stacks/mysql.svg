@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">MySQL</title>
+  <desc id="desc">Ícone estilizado representando MySQL.</desc>
+  <rect width="64" height="64" rx="18" fill="#06223d"/>
+  <ellipse cx="32" cy="19" rx="16" ry="7" fill="#2ea8ff"/>
+  <path d="M16 19v19c0 3.8 7.2 7 16 7s16-3.2 16-7V19" fill="#1074c2"/>
+  <ellipse cx="32" cy="38" rx="16" ry="7" fill="#2ea8ff"/>
+</svg>

@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">MongoDB</title>
+  <desc id="desc">Ícone estilizado representando MongoDB.</desc>
+  <rect width="64" height="64" rx="18" fill="#0c1d14"/>
+  <path d="M32 12c6 9 10 17 10 27 0 8-4 13-10 15-6-2-10-7-10-15 0-10 4-18 10-27z" fill="#47a248"/>
+  <path d="M32 18v30" stroke="#d7ffd8" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

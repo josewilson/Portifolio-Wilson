@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Java</title>
+  <desc id="desc">Ícone estilizado representando Java.</desc>
+  <rect width="64" height="64" rx="18" fill="#1a1420"/>
+  <path d="M24 42c3 2 13 2 16 0" fill="none" stroke="#ffb347" stroke-width="3" stroke-linecap="round"/>
+  <path d="M28 24c4-3-2-5 2-9m6 8c4-3-2-5 2-9" fill="none" stroke="#ff6b4a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22 34h20c0 7-4 12-10 12s-10-5-10-12z" fill="#e6eefc"/>
+</svg>
